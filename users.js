@@ -1,0 +1,1 @@
+module.exports = [["daotuan", "abcxyz123", "admin"], ["testuser", "xyzabc123", "user"]];
